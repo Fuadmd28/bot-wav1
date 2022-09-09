@@ -40,7 +40,6 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 *> Game*
 Dan lain lain
 Hubungi nomor di atas :v
-
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
 let teksbio = `${htki} *BIODATA* ${htka}
