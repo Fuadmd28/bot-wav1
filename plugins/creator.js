@@ -11,48 +11,25 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 ------- ${nameown} -------
 
 📮 *Note:*
-• Misal terjadi EROR Dengan Bot Segera lapor ke owner
-• Mau Jadi teman boleh
+• Owner tidak menerima save contact
 • Owner berhak blockir tanpa alasan
 • Berbicaralah yang sopan & tidak spam
-• Owner Hanya merespon yang berkaitan dengan BOT Ga juga si :v
+• Owner Hanya merespon yang berkaitan dengan BOT
 • No Telp`
-🎗️*Mau Sewa?*
-━━━〔 ıll *HARGA* llı 〕━━ꕥ
 
-⬡ *DANA:* *Rp. 15.000 • PERMANEN*
-⬡ *GOPAY:* *Rp. 15.000 • PERMANEN*
-⬡ *PULSA:* *Rp. 20.000 • PERMANEN*
-⬡ *BISA GRATIS WAKTU SAMPAI 1 HARI*
-┗━━━━━━━━━━━━━━━ꕥ
-*[ Fitur ]*
-*> Add List Jualan kamu*
-*> Anti link*
-*> Welcome*
-*> Group*
-*> Anime*
-*> Stalking*
-*> Search*
-*> Convert*
-*> Image efek*
-*> Anime random*
-*> Nsfw*
-*> Game*
-Dan lain lain
-Hubungi nomor di atas :v
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
 let teksbio = `${htki} *BIODATA* ${htka}
-${htjava} *💌 Nama* : Bang Fuad
+${htjava} *💌 Nama* : WH-MODS-Dev
 ${htjava} *✉️ Nama RL* : HAMBA ALLAH
 ${htjava} *♂️ Gender* : Boys
-${htjava} *🕋 Agama* : Islam☪️
+${htjava} *🕋 Agama* : Islam
 ${htjava} *⏰ Tanggal lahir* : Private 🥶
-${htjava} *🎨 Umur* : 17
-${htjava} *🧮 Kelas* : MASIH SD :v
+${htjava} *🎨 Umur* : 18
+${htjava} *🧮 Kelas* : SUDAH TAMAT
 ${htjava} *🧩 Hobby* : MODIFIKASI WHATSAPP "MODDER WHATSAPP"
 ${htjava} *💬 Sifat* : ASIK DAH KALAU DAH KENAL
-${htjava} *🗺️ Tinggal* : Indo, Bogor, Jawa Barat
+${htjava} *🗺️ Tinggal* : Amerika, Jawa Barat
 ${htjava} *❤️ Waifu* : -
 
 ${htjava} *📷 ɪɴsᴛᴀɢʀᴀᴍ* : ${sig}
