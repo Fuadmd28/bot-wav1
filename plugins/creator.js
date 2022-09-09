@@ -17,6 +17,29 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 • Berbicaralah yang sopan & tidak spam
 • Owner Hanya merespon yang berkaitan dengan BOT Ga juga si :v
 • No Telp`
+🎗️*Mau Sewa?*
+━━━〔 ıll *HARGA* llı 〕━━ꕥ
+
+⬡ *DANA:* *Rp. 15.000 • PERMANEN*
+⬡ *GOPAY:* *Rp. 15.000 • PERMANEN*
+⬡ *PULSA:* *Rp. 20.000 • PERMANEN*
+⬡ *BISA GRATIS WAKTU SAMPAI 1 HARI*
+┗━━━━━━━━━━━━━━━ꕥ
+*[ Fitur ]*
+*> Add List Jualan kamu*
+*> Anti link*
+*> Welcome*
+*> Group*
+*> Anime*
+*> Stalking*
+*> Search*
+*> Convert*
+*> Image efek*
+*> Anime random*
+*> Nsfw*
+*> Game*
+Dan lain lain
+Hubungi nomor di atas :v
 
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
