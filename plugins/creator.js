@@ -30,7 +30,7 @@ ${htjava} *🎨 Umur* : 17
 ${htjava} *🧮 Kelas* : MASIH SD :v
 ${htjava} *🧩 Hobby* : MODIFIKASI WHATSAPP "MODDER WHATSAPP"
 ${htjava} *💬 Sifat* : ASIK DAH KALAU DAH KENAL
-${htjava} *🗺️ Tinggal* : Indo, Bogor, Jawa Barat, Tapi Gw Normal :v
+${htjava} *🗺️ Tinggal* : Indo, Bogor, Jawa Barat
 ${htjava} *❤️ Waifu* : -
 
 ${htjava} *📷 ɪɴsᴛᴀɢʀᴀᴍ* : ${sig}
