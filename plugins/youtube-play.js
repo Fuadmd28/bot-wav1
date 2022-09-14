@@ -30,6 +30,7 @@ handler.command = /^play2?$/i
 handler.exp = 0
 handler.limit = true
 handler.register = true
+handler.group = true
 
 export default handler */
 // ---------------------------new------------------------------------------------
@@ -89,6 +90,7 @@ handler.command = /^play2?$/i
 handler.exp = 0
 handler.limit = true
 handler.register = true
+handler.group = true
 
 export default handler
 
