@@ -9,5 +9,6 @@ let handler = async (m, { conn, args }) => {
 handler.help = ['logokaneki'].map(v => v + ' <text>')
 handler.tags = ['maker']
 handler.command = /^(logokaneki)$/i
+handler.imit = true
 
 export default handler
